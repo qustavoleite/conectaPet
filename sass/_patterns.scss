@@ -5,11 +5,27 @@
     padding: 1.2rem 3.4rem;
     font-weight: 600;
     letter-spacing: -0.01em;
-    transition: transform .3s ease;
     border-radius: 0.8rem;
+    transition: transform .3s ease;
 }
 
 .btn-primary:hover {
     transform: scale(1.05);
     background-color: $purple-500;
 }
+
+// .btn-secundary {
+//     font-family: 'Sora', sans-serif;
+//     background-color: $green-500;
+//     color: $white;
+//     padding: 1.2rem 3.4rem;
+//     font-weight: 600;
+//     letter-spacing: -0.01em;
+//     border-radius: 0.8rem;
+//     transition: transform .3s ease;
+// }
+
+// .btn-secundary:hover {
+//     transform: scale(1.05);
+//     background-color: $green-300;
+// }

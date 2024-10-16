@@ -206,16 +206,13 @@ body {
 
   h3 {
     text-align: center;
+    color: $gray-500;
   }
 
   .result-info {
     display: flex;
     flex-direction: column;
     gap: 1.2rem;
-  }
-
-  h3 {
-    color: $gray-500;
   }
 
   a {
@@ -227,7 +224,7 @@ body {
 
 /*resultado id ano encontrado*/
 .box-feedback {
-display: flex;
+  display: flex;
   flex-direction: column;
   gap: 3rem;
   padding: 4rem;
